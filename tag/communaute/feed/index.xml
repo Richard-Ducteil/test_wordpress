@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>communauté</title>
+	<atom:link href="/tag/communaute/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 15 Jun 2023 08:38:09 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Le monde de Javascript</title>
+		<link>/2023/06/15/le-monde-de-javascript/</link>
+					<comments>/2023/06/15/le-monde-de-javascript/#respond</comments>
+		
+		<dc:creator><![CDATA[test]]></dc:creator>
+		<pubDate>Thu, 15 Jun 2023 08:38:09 +0000</pubDate>
+				<category><![CDATA[Formation]]></category>
+		<category><![CDATA[communauté]]></category>
+		<category><![CDATA[langage]]></category>
+		<category><![CDATA[solidarité]]></category>
+		<category><![CDATA[techno]]></category>
+		<guid isPermaLink="false">/?p=210</guid>
+
+					<description><![CDATA[tracted by the readable content of a page when looking at its layout. The point of using Lorem]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Why do we use it?</h2>
+
+
+
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &lsquo;Content here, content here&rsquo;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &lsquo;lorem ipsum&rsquo; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/06/15/le-monde-de-javascript/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
